@@ -1,6 +1,6 @@
 # Nothing is made by me
 
-#screenshots
+screenshots
 
 <img width="1366" height="768" alt="Screenshot from 2026-10-25 15:31:45" src="https://github.com/user-attachments/assets/a38ee03c-a8e6-4d9e-b2f1-725d3046f00f" />
 
@@ -14,5 +14,5 @@ tar --force-local -xf LaGaDesk-BlackWhite-ii:reborn.tar.xz
 
 put the extracted file in:
 /usr/share/icons/ 
-#OR
+OR
 ~/.local/icons/
