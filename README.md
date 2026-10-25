@@ -15,4 +15,4 @@ tar --force-local -xf LaGaDesk-BlackWhite-ii:reborn.tar.xz
 put the extracted file in:
 /usr/share/icons/ 
 OR
-~/.local/icons/
+~/.local/share/icons/
